@@ -1,0 +1,9 @@
+---
+  -  name: creating web application
+     hosts: all
+     tasks:
+       - name: creating copy
+         copy:
+           source: 
+           dest:
+         

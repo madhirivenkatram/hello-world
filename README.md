@@ -6,7 +6,4 @@ This repository is built step by step in the tutorial.
 
 This is created by venkatram 
 
-he tried to create all the possibilities
-
-This is to be checked on git
-Hi git
+I have deleted some content
